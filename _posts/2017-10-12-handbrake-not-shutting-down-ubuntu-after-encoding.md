@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handbrake not shutting down ubuntu after encoding
+title: Handbrake not Shutting Down Ubuntu after Encoding
 tags: Ubuntu, Handbrake, linux, Shutdown, Prompt
 ---
 
