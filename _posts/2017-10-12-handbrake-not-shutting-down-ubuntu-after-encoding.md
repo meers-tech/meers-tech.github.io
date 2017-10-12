@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handbrake not shutting down ubuntu after encoding
-tags: Ubuntu, Handbrake, 
+tags: Ubuntu, Handbrake, linux, Shutdown, Prompt
 ---
 
 I recently had an issue where Ubuntu 16.04.3 wasn't shutting down after Handbrake finished encoding its files. This was my first steps into using Handbrake on Ubuntu, had had no idea it it was a bug, accepted, or Ubuntu related. Basically, I would wake up in the morning and the computer would be on, after signing into my user account, I would find handbrake with a dialog box countdown stuck on 1 second. It wouldn't do anything until I clicked cancel and then the computer would shut down.  
