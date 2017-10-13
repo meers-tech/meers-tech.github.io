@@ -12,4 +12,4 @@ To disable the Ubuntu prompt at shutdown you simply copy and paste the bit of co
 
 `gsettings set com.canonical.indicator.session suppress-logout-restart-shutdown true`
 
-Now no more wasting power at night with an idle computer.
+Now no more wasting power over night with an idling computer.
